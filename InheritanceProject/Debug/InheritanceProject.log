@@ -1,0 +1,11 @@
+﻿  Triangle.cpp
+  Square.cpp
+  Shape.cpp
+  Poligon.cpp
+  InheritanceProject.cpp
+d:\school\c++\inheritanceproject\inheritanceproject\inheritanceproject.cpp(20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Circle.cpp
+  InheritanceProject.vcxproj -> D:\School\C++\InheritanceProject\Debug\InheritanceProject.exe
+  InheritanceProject.vcxproj -> D:\School\C++\InheritanceProject\Debug\InheritanceProject.pdb (Partial PDB)
